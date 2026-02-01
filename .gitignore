@@ -1,0 +1,10 @@
+.env
+*.sh
+runs
+__pycache__
+checkpoints
+_cache
+data_raw
+resnet50_imagenet1k_v2.meta*
+outputs
+tools/

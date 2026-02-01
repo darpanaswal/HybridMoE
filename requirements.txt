@@ -1,0 +1,11 @@
+numpy
+torch
+wandb
+pytest
+torchvision
+scikit-learn
+torchmetrics
+opencv-python
+python-dotenv
+huggingface_hub
+pytorch-lightning
